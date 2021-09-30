@@ -39,7 +39,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://shawn-kim-portfolio.web.app/messaging)
 
-One of the most used features of SNS used nowadays is realtime interaction between users. This social networking web app is built with the React Framework for frontend, and Firebase backend services, which allows users to add posts on the feed with "Like" functionality.
+Geolocation, Google Maps API & Google Places API, fetching API data based on the location, data filtering are features to form a reasonable Travel Advisor App.
 
 ### Built With
 
@@ -53,7 +53,7 @@ One of the most used features of SNS used nowadays is realtime interaction betwe
 
 ## Installation
 
-To use locally, clone the repository, install dependencies, run with npm:
+To use locally, clone the repository, install dependencies, run with npm.
 
 In the project directory, you can run:
 
