@@ -8,17 +8,12 @@
   <h3 align="center">Travel Advisor</h3>
 
   <p align="center">
-    A simple forum website with Like functionality
+    Google Maps Travel Companion Application
     <br />
-    <a href="https://github.com/skim33/SNS-portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/skim33/Travel-Advisor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://shawn-kim-portfolio.web.app/messaging">View Demo</a>
-    <br />
-    <div align="center">Please logn with the guest email address and password shown below:</div>
-    <br />
-    <div align="center">Email: guest@guest.com</div>
-    <div align="center">Password: 123123</div>
+    <a href="https://travel-advisor-api.netlify.app/">View Demo</a>
     <br />
   </p>
 </p>
@@ -49,9 +44,10 @@ One of the most used features of SNS used nowadays is realtime interaction betwe
 ### Built With
 
 - [React](https://reactjs.org/) (Frontend)
-- [Redux](https://redux.js.org/) (State Management)
-- [Firebase](https://firebase.google.com/) (Backend / Host)
-- [Material UI](https://mui.com/)
+  - [Google Map React](https://www.npmjs.com/package/google-map-react) (Library)
+- [Rapid API](https://rapidapi.com/hub) (Travel Advisor API / Open Weather Map API)
+- [Material UI](https://mui.com/) (makeStyles / core / icons)
+- [Netlify](https://www.netlify.com/) (Deployment)
 
 <!-- GETTING STARTED -->
 
@@ -69,7 +65,7 @@ npm start
 
 Shawn Kim - shawnkimwk@gmail.com
 
-Project Link: [https://github.com/skim33/SNS-portfolio](https://github.com/skim33/SNS-portfolio)
+Project Link: [https://github.com/skim33/Travel-Advisor](https://github.com/skim33/Travel-Advisor)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
